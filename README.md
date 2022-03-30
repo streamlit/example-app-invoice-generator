@@ -1,4 +1,4 @@
-# 🎓 Invoice Generator
+# 💰 Invoice Generator
 
 A Streamlit app to show how you can easily use Streamlit to generate invoices as PDFs.
 
