@@ -19,9 +19,19 @@ A Streamlit app to show how you can easily use Streamlit to generate invoices as
     </tr>
 </table>
 
+### How to run this demo
+The demo has been deployed using Python 3.7. **We suggest creating a new virtual environment**, then running:
+
+```
+git clone https://github.com/streamlit/example-app-invoice-generator.git
+cd example-app-invoice-generator
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
 ### About the app
 
-- Code is powered by <a href="https://streamlit.io"> Streamlit</a> 🎈
+- Code is powered by <a href="https://streamlit.io"> Streamlit</a> 🎈 and deployed on [Streamlit Cloud](https://streamlit.io/cloud) ☁️
 - It is super compact: only 50 lines of code. Check it out in [`streamlit_app.py`](https://github.com/streamlit/example-app-invoice-generator/blob/main/streamlit_app.py)
 
 ### About the template
